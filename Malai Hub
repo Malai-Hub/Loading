@@ -1,0 +1,11 @@
+if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
+    Blox fruit
+elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 then
+    King legacy
+elseif PlaceId == 537413528 then
+    Build a boat    
+elseif PlaceId == 8304191830 or PlaceId == 8349889591 then
+    Anime Adventure
+elseif PlaceId == 10321372166 or PlaceId == 6284583030 then
+    Pet simulator X
+end
